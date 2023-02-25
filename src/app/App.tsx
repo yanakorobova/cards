@@ -1,6 +1,6 @@
 import React from 'react';
 import s from './App.module.css'
-import {Navigate, Route, Routes} from "react-router-dom";
+import {Route, Routes} from "react-router-dom";
 import {Error404} from "../features/NotFound/Error404";
 import {NewPassword} from "../features/NewPassword/NewPassword";
 import {SuperComponent} from "../features/Test/SuperComponent";
